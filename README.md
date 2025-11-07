@@ -3,7 +3,7 @@
 ## **Installation**
 ### 1. Clone the repository
 ```
-git clone https://github.com/ssammarshall/e-commerce_project.git
+git clone https://github.com/ssammarshall/ecommerce_project.git
 ```
 ### 2. CD into project directory
 ```
